@@ -1,5 +1,5 @@
 <!-- my-page.html --> 
-<!--<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
+<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 
 # Header
 Welcome to md-page, the easiest way to make a webpage from just markdown...
